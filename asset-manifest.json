@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mi-aplicacion/static/css/main.23c09cec.chunk.css",
+    "main.js": "/mi-aplicacion/static/js/main.600899b6.chunk.js",
+    "main.js.map": "/mi-aplicacion/static/js/main.600899b6.chunk.js.map",
+    "runtime-main.js": "/mi-aplicacion/static/js/runtime-main.6b6f5cbc.js",
+    "runtime-main.js.map": "/mi-aplicacion/static/js/runtime-main.6b6f5cbc.js.map",
+    "static/js/2.802186cc.chunk.js": "/mi-aplicacion/static/js/2.802186cc.chunk.js",
+    "static/js/2.802186cc.chunk.js.map": "/mi-aplicacion/static/js/2.802186cc.chunk.js.map",
+    "static/js/3.73ae800d.chunk.js": "/mi-aplicacion/static/js/3.73ae800d.chunk.js",
+    "static/js/3.73ae800d.chunk.js.map": "/mi-aplicacion/static/js/3.73ae800d.chunk.js.map",
+    "index.html": "/mi-aplicacion/index.html",
+    "static/css/main.23c09cec.chunk.css.map": "/mi-aplicacion/static/css/main.23c09cec.chunk.css.map",
+    "static/js/2.802186cc.chunk.js.LICENSE.txt": "/mi-aplicacion/static/js/2.802186cc.chunk.js.LICENSE.txt",
+    "static/media/foto-mia.0a7162ca.jpg": "/mi-aplicacion/static/media/foto-mia.0a7162ca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b6f5cbc.js",
+    "static/js/2.802186cc.chunk.js",
+    "static/css/main.23c09cec.chunk.css",
+    "static/js/main.600899b6.chunk.js"
+  ]
+}
